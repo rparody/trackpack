@@ -1,0 +1,13 @@
+Package: trackpack
+Title: Shiny App to Track Downloads of my Own Package
+Version: 0.0.0.9000
+Authors@R: person('Rob', 'Parody', email = 'rob@responsumanalytics.com', role = c('cre', 'aut'))
+Description: Application Downloads from CRAN.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
